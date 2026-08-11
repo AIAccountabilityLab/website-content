@@ -1,0 +1,105 @@
+- name: Dr Abeba Birhane
+  image: /abb.jpg
+  pronouns: she/her
+  role: Assistant Professor, Founder & Principal Investigator of AIAL
+  long: |
+    Dr Abeba Birhane founded and leads the AI Accountability Lab (AIAL) at Trinity College Dublin. She received her PhD in 2022 from University College Dublin and is currently a Research Fellow at the School of Computer Science and Statistics in Trinity College Dublin.
+    Dr Birhane researches AI accountability, with a particular focus on audits of AI models and training datasets – work for which she was featured on the TIME100 Most Influential People in AI list in 2023. Dr. Birhane also served on the United Nations Secretary-General’s AI Advisory Body and the AI Advisory Council in Ireland.
+  links:
+    - https://bsky.app/profile/abeba.bsky.social
+    - https://www.linkedin.com/in/abeba-birhane-214b8426
+    - https://abebabirhane.com/
+- name: Dr Harshvardhan Pandit
+  image: /HJP.jpg
+  pronouns: he/him
+  role: Research Fellow
+  long: |
+    Harsh works on understanding the implications of regulations on technology and how these solve or hinder real-world challenges associated with privacy, legal and regulatory compliance, and consent. His PhD (Computer Science, Trinity College Dublin) explored the application of linked data and semantic web technologies towards GDPR compliance, with a particular focus on consent and provenance.
+
+    He currently co-chairs the W3C Data Privacy Vocabularies and Controls Community Group (DPVCG) – which develops interoperable vocabularies for privacy and data protection activities based on legal and practical requirements, is a member of the National Standards Authority of Ireland and contributes to ISO/IEC, CEN/CENELEC, and IEEE standardisation activities regarding privacy and AI, and is a nominated Technical Expert by the European Data Protection Board.
+  links:
+    - harshvardhan.pandit@adaptcentre.ie
+    - https://bsky.app/profile/harshp.com
+    - https://www.linkedin.com/in/harshvardhanpandit/
+    - https://harshp.com/
+- name: Maribeth Rauh
+  image: /mrauh.jpg
+  pronouns: she/her
+  role: Researcher
+  long: |
+    Maribeth Rauh researches sociotechnical evaluation of AI systems, with particular attention to how they exacerbate structural inequality. Her current work focuses on justice-oriented audit frameworks and evaluations of AI "agents."
+    Prior to joining the AIAL, she worked as a Research Engineer at DeepMind, collaborating across engineering, research, and ethics teams on questions at the intersection of AI development and societal impact. Her research has been published at top conferences including NeurIPS, ICLR, ACM Conference on Fairness, Accountability, and Transparency (FAccT), and AAAI/ACM Conference on AI, Ethics, and Society (AIES).
+  links:
+    - maribeth.rauh@adaptcentre.ie
+    - https://bsky.app/profile/mbrauh.bsky.social
+    - https://www.linkedin.com/in/maribethrauh/
+    - https://maribeth.info/
+- name: Riccardo Angius
+  image: /riccardoangius.jpg
+  pronouns: they/them
+  role: PhD Researcher
+  long: |
+    Riccardo is a mixed-method doctorand with a decade-long experience in interdisciplinary teams investigating social dynamics, overtrust in decision support systems, and sociotechnical auditing of predictive and generative stochastic systems.
+    Their work in Sociolinguistics, Computer Supported Group Work and Science and Technology Studies at the Universities of Padova and Milano-Bicocca was published at impactful conferences such as ACM CHI and AAAI ICWSM. Riccardo's joint work with AI Forensics and Algorithm Watch has been featured by The Washington Post, Wired US, Die Zeit and Nieuwsuur, as well as cited by Pulitzer-winning Julia Angwin, the Reuters Institute and in formal proceedings of the European Commission.
+  links:
+    - angiusr@tcd.ie
+    - https://bsky.app/profile/storitu.org
+    - https://www.linkedin.com/in/riccardoangius/
+    - https://storitu.org/
+- name: Nana Mgbechikwere Nwachukwu
+  image: /nananwachukwu.jpeg
+  role: PhD Researcher
+  long: |
+    Nana Nwachukwu is a PhD Candidate at the AI Accountability Lab, Trinity College Dublin, under the supervision of Dr. Abeba Birhane. Her research focuses on AI ecosystem accountability, algorithmic governance, and justice-oriented frameworks for evaluating socio-technical systems,especially within Global South contexts. She is also an Affiliate at the Berkman Klein Center for Internet & Society at Harvard University.
+    Nana holds advanced degrees in law, international humanitarian affairs, and digital communications, and has over a decade of experience working at the intersection of technology, human rights, and policy.
+  links:
+    - https://www.linkedin.com/in/mtechlaw/
+- name: Shane Gilligan
+  image: /shane-gilligan.png
+  role: Intern
+  long: |
+    Shane Gilligan is currently a Master's student in Trinity College Dublin at the School of Computer Science and Statistics, where he also recently completed an undergraduate degree in computer science. He is undertaking research at the AI Accountability Lab under the supervision of Dr. Abeba Birhane. His work focuses on platform accountability, particularly audits of large platform recommender systems.
+- name: Monique Munarini
+  image: /moniquemunarini.png
+  role: Visiting Researcher
+  long: |
+    Monique Munarini (she/her) is a PhD candidate in AI for society at the University of Pisa- Italy. Qualified lawyer, researcher, and policy analyst, her PhD explores how equity can be a more inclusive approach to auditing AI systems than traditional fairness metrics by developing an equity-based framework rooted in feminist theory, participatory action research, and design justice principles, aiming to create AI audits that genuinely account for the needs and voices of all communities affected by AI. She also contributes to global policy debates through her work with the Center for AI and Digital Policy (CAIDP) and Digihumanism.
+    She uses her legal and political science expertise to engage with and unify the work of computer scientists, social scientists, legal scholars, and real world practitioners to develop realistic and impactful outcomes in the AI ecosystem. Monique's paper on equitable AI audits gained meaningful recognition, and won the Best Research Paper Award at ACM ICEGOV 2024. She was recognized as a CAIDP Fellow 2024 for her work as policy analyst that shaped AI policy through careful research, thoughtful analysis, active engagement with policymakers, and a commitment to human rights, democracy, and the rule of law.
+  links:
+    - https://www.linkedin.com/in/moniquemunarini/
+- name: Syrine Enneifer
+  image: /Syrine.jpg
+  role: Visiting Researcher
+  long: |
+    Syrine Enneifer is a PhD candidate in Engineering in Computer Science at Sapienza University of Rome. Her research focuses on algorithmic auditing and the development of transparent frameworks designed to expose the inherent discrimination of existing data ecosystems.
+    Her work interrogates the presence of ideological and gender-based distortions in automated systems, as well as the safety and ethical limitations of AI interactions involving vulnerable populations. By centering her research on data exposure and bias detection, she aims to establish more equitable standards for AI development and evaluation.
+  links:
+    - https://www.linkedin.com/in/syrine-enneifer/
+- name: Dick Blankvoort
+  image: /dickblankvoort.jpg
+  pronouns: he/him
+  role: Visiting Researcher
+  long: |
+    Dick Blankvoort is a Master's student at the Radboud University Nijmegen and a researcher at the European Open Source AI Index. His primary interest lies in exploring the applications of generative AI and its mathematical underpinnings. His current work consists of delineating and scrutinizing current practices in open-source AI, as well as on exploring the auditing of various more advanced AI systems.
+  links:
+    - https://www.linkedin.com/in/dick-blankvoort/
+- name: Giovanni Occhipinti
+  active: false
+  image: /giovanniocchipinti.jpg
+  pronouns: he/him
+  role: Intern
+  long: |
+    Giovanni is an AI researcher in progress, studying language technology at the University of Bologna and is currently interested in LLM evaluation and alignment.
+  links:
+    - giovanni.occhipinti@adaptcentre.ie
+    - https://www.linkedin.com/in/occhipintigiovanni/
+- name: Mauricio Dal Pozzo Schneider
+  active: false
+  image: /mauricioschneider.jpg
+  role: Intern
+  long: |
+    Mauricio is a legal professional specializing in the intersection of law and technology, with over six years of experience in Civil, Consumer, Property, and Contract Law. Mauricio's career has been shaped by a commitment to providing expert legal counsel, managing complex litigation, and ensuring compliance with regulatory standards.
+    Mauricio has actively contributed to global discussions through international conferences and collaborative projects focused on economic integration and digital transformation.
+  links:
+    - mauricio.dalpozzoschneider@adaptcentre.ie
+    - https://www.linkedin.com/in/mauriciodps/

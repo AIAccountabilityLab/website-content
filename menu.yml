@@ -1,0 +1,16 @@
+- name: Home
+  link: "/"
+- name: 12 issues with AI
+  link: "/issues"
+- name: "Research Projects"
+  link: "/research/projects"
+- name: "Publications"
+  link: "/research/publications"
+- name: "Policy & Community"
+  link: "/feedback"
+- name: "About us"
+  sublinks:
+    - name: "People"
+      link: "/about/people"
+    - name: "Mission"
+      link: "/about/mission"
