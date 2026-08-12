@@ -108,6 +108,7 @@
   year: 2026
   date: "2026-06-25"
   id: "2026-FAccT-AIA531d"
+  project: "gpai-training-transparency"
   media:
     [
       {
@@ -129,8 +130,16 @@
   news:
     - date: "2026-03-02"
       link: "https://www.euractiv.com/news/researchers-have-trouble-finding-ai-training-data-summaries/"
-      title: "Euractiv"
-      type: "news"
+      title: "(Euractiv) Researchers have trouble finding AI training data summaries"
+      type: news
+    - date: "2026-03-02"
+      link: "https://www.techpolicy.press/how-big-ai-developers-are-skirting-a-mandate-for-training-data-transparency/"
+      title: "(Tech Policy Press) How Big AI Developers are Skirting a Mandate for Training Data Transparency"
+      type: news
+    - date: "2026-08-07"
+      link: "https://www.euractiv.com/news/ai-labs-at-odds-with-eu-over-half-hearted-data-disclosures/"
+      title: "(Euractiv) AI labs at odds with EU over half-hearted data disclosures"
+      type: news
 - title: "Terms of (Ab)Use: An Analysis of GenAI Services"
   authors: "Harshvardhan J. Pandit, Dick A. H. Blankvoort, Dick A. H. Blankvoort, Sasha Luccioni, Abeba Birhane"
   venue: "ACM Conference on Fairness, Accountability, and Transparency (FAccT)"
@@ -140,6 +149,7 @@
   year: 2026
   date: "2026-06-25"
   id: "2026-FAccT-Terms"
+  project: "terms-of-abuse"
   media:
     [
       {
@@ -162,6 +172,7 @@
   year: 2026
   date: "2026-06-26"
   id: "2026-FAccT-CorpCap"
+  project: "corporate-capture"
   media:
     [
       {

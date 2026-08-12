@@ -14,3 +14,5 @@
       link: "/about/people"
     - name: "Mission"
       link: "/about/mission"
+    - name: "Contact"
+      link: "/contact"

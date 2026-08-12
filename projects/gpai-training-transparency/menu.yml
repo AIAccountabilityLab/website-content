@@ -1,0 +1,12 @@
+- name: Home
+  link: "/research/projects/gpai-training-transparency/"
+- name: Findings
+  link: "/research/projects/gpai-training-transparency/detailed-overview"
+- name: Methodology
+  link: "/research/projects/gpai-training-transparency/methodology"
+- name: Recommendations
+  link: "/research/projects/gpai-training-transparency/recommendations"
+- name: Blog
+  link: "/research/projects/gpai-training-transparency/blog/"
+- name: Contact
+  link: "/research/projects/gpai-training-transparency/about"
