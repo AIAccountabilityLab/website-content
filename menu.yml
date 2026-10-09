@@ -1,18 +1,36 @@
-- name: Home
-  link: "/"
-- name: 12 issues with AI
-  link: "/issues"
-- name: "Research Projects"
-  link: "/research/projects"
-- name: "Publications"
-  link: "/research/publications"
-- name: "Policy & Community"
-  link: "/feedback"
-- name: "About us"
-  sublinks:
-    - name: "People"
-      link: "/about/people"
-    - name: "Mission"
-      link: "/about/mission"
-    - name: "Contact"
-      link: "/contact"
+main:
+  - name: Areas of Interest
+    link: "/#areas-of-interest"
+  - name: Academic Work
+    link: "/work/academic-work"
+    category: academic
+  - name: Policy Work
+    link: "/work/policy-work"
+    category: policy
+  - name: Opinion pieces 
+    link: "/work/opinion-piece"
+    category: opinion
+  - name: Media Appearances
+    link: "/work/media-appearances"
+    category: media
+  - name: Blog
+    link: "/work/blog"
+    category: blog
+  - name: About
+    link: "/about"
+  - name: AI-use Policy
+    link: "/ai-use-policy"
+  # sublinks:
+  #   - name: People 
+  #     link: "/people"
+  #   - name: Research partners
+  #     link: "/about"
+  #   - name: A statement on CoF 
+  #     link: "/about"
+  #   - name: Legal and Privacy notice
+  #     link: "/about"
+bottom:
+  - name: Statement on Conflict of Interest 
+    link: "/conflict-of-interest"
+  - name: Legal and Privacy notice
+    link: "/legal-privacy"

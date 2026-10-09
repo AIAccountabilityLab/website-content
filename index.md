@@ -1,26 +1,91 @@
+---
+title: AI Accountability Lab
+description: Bringing research excellence and technical rigour to questions of power and accountability
+---
+
+
 ::Landing
-AI technologies that extend and not hinder justice, equity, and fundamental rights are foundational to societal benefits and human flourishing. Ensuring those developing and deploying AI technologies are held accountable is instrumental to support these goals. _Research excellence_ and _technical rigour_ are paramount to us...
-#credits
-Abeba Birhane — 18 august 2026
+---
+title: Bringing _research excellence_ and _technical rigour_ to questions of power and accountability
+news:
+  - text: "Our mission"
+    link: /mission
+  - text: "Event: launch 28 nov 2026"
+    link: /about
+  - text: "join our team!"
+    link: /about
+---
 ::
 
-<!--::issues
-# 12 issues where accountability matters most
+:text-scroll{text="We leverage empirical evidence to inform the public, support evidence-driven AI policies, hold systems of power and authority accountable, and pave the way marked by a _just_ and _equitable_ AI." arrow=true}
 
-Explore our work around the issues that matter most — from algorithmic bias, surveillance, and data exploitation, to consumer rights, labour displacement, and the environmental cost of AI.
+:text-scroll{text="The following _areas of interest_ have our specific attention:" arrow=true}
 
-:arrowright
+::areas-of-interest
+---
+areas:
+  - title: "Evaluating AI Companions"
+    filter: "Evaluating AI Companions"
+    lead: ["maribeth"]
+    time: "Started: 2026"
+    description: |
+      AI “companions” marketed as ‘friends’, ‘romantic partners’, or emotional confidants are garnering millions of users worldwide, with a considerable uptake amongst young people. 
+      
+      These systems are designed to imitate human-like interaction, raising urgent questions around emotional dependency, psychological harm, and manipulative business practices. 
+      
+      Our work evaluates these systems’ functionality in order to understand both societal implications and legal ramifications of AI “companionship”.
+  - title: "Social Media Platform Audit"
+    filter: "Social Media Platform Audit"
+    lead: ["riccardo","shane"]
+    time: "2025 — 2026"
+    description: |
+      As public life increasingly moves into the digital realism, large social media platforms such as  Facebook, Instagram, and Tiktok serve as public squares where public discourse takes place. 
+      
+      Yet, the governance structure of these platforms remains private, the algorithms that curate our feeds inscrutable and opaque guarded by proprietary rights, with little to no accountability to public citizens that depend on them. 
+      
+      Our platform audit work systematically scrutinises recommender systems, content moderation practices, and their real world impact, particularly with a focus on authoritarianism, hateful content, and anti-immigrant rhetoric. [_watch this space for upcoming work_]
+  - title: "The political economy of Big AI"
+    filter: "The political economy of Big AI"
+    lead: ["harsh"]
+    time: "2025 — 2026"
+    description: |
+      With increased integration of AI into societal infrastructure comes an outsized concentration of epistemic, economic, political influence and power from Big AI [embed our [corp capture paper](https://dl.acm.org/doi/pdf/10.1145/3805689.3806740) for definition of Big AI]. 
+      
+      The ever-growing and forced integration of AI into every facet of life carries significant ramifications for everything from the credibility of scientific knowledge, education, information ecosystems, the environment, the rule-of law, our fundamental and human rights, and the integrity of democratic processes. 
+      
+      For this reason, we study Big AI, including key regulatory and oversight structures and processes that ought to govern the industry, with a particular focus on Europe. 
+  - title: "Towards the science of evaluation"
+    filter: "Towards the science of evaluation"
+    lead: []
+    time: "2025 — 2026"
+    description: |
+      As AI systems become embedded in societal infrastructure, evaluating their behaviour and downstream impacts has emerged as an important scientific challenge and a pressing real-world problem. 
+      
+      Audits and evaluation serve as an important mechanism for producing systematic evidence of the behaviour of deployed systems, diagnosing emerging risks and harms, understanding their societal impact and supporting public accountability. 
+      
+      Our interest in this area spans from systematic understanding of contemporary evaluation practices, what methodological rigour entails, how methodological choices shape the claims we can make about AI systems, as well as the pathway from (and interdependence) between rigorous evaluation practices and public interest accountability. 
+  - title: "AI and low-resource languages"
+    filter: "AI and low-resource languages"
+    lead: ["helina"]
+    time: "2025 — 2026"
+    description: |
+      Current major technological developments in AI tend to be built on the foundations of data theft, labour extraction, intrusive surveillance and a business model that maximises benefit to the company and its shareholders at any cost to the user. But this doesn’t have to be the way. 
+      
+      We challenge this norm by building language technologies for low-resource languages through meaningful participatory collaboration with a community of language speakers. 
+      
+      Combining qualitative and quantitative methodologies, we develop data collection, model development, and model evaluation methodologies and practices as well as community driven data governance protocols.
+  - title: "Generative AI in public services"
+    filter: "Generative AI in public services"
+    lead: ["sananda"]
+    time: "2025 — 2026"
+    description: |
+      Despite the growing push by government bodies to integrate generative AI into the public services, on the where, why, how, and when remains scarce. 
+      
+      We are interested in examining the incorporation, procurement, transparency, and governance practices of the use of generative AI in government functions and public service operations. Our work initially focuses in the context of Ireland. [watch this space for upcoming work **(work only starting now)**]
+---
+::
 
-::-->
 
-:projects
+:categories{text="Explore all our work:"}
 
-:publications
-
-:policy
-
-:blog
-
-:media
-
-:people
+:action-button{text="Find out more about AIAL" link="/about"} 

@@ -1,0 +1,14 @@
+research:
+  - name: Ada Lovelace
+    logo: /images/ada-logo.png
+    url: https://www.adalovelaceinstitute.org/
+  - name: Amnesty Tech
+    logo: /images/amnesty-tech-logo.png
+    url: https://www.amnesty.org/en/tech/
+  - name: ICCL
+    logo: /images/iccl-logo.png
+    url: https://www.iccl.ie/
+  - name: Kabakoo Academies
+    logo: /images/kabakoo-academies-logo.jpg
+    url: https://www.kabakoo.africa/
+funding:
