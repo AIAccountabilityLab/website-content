@@ -70,4 +70,4 @@ _Acknowledgement_: my deepest gratitude and solidarity with the Palestinian BDS 
 
 You can watch the keynote speech \[[here](https://youtu.be/K-AOgG6sc9Q?feature=shared&t=4828)\] (starting from 1.22 hours) but the video is missing the first 5-6 minutes for reasons that were not communicated by the organisers.
 
-You can also download the [original slides](/blog/2025-ai-for-good-summit/slides_original.pdf) and the [censored version](/blog/2025-ai-for-good-summit/slides_censored.pdf) that was presented.
+You can also download the [original slides](/blog/2025-ai-for-good-summit/slides-original.pdf) and the [censored version](/blog/2025-ai-for-good-summit/slides-censored.pdf) that was presented.
