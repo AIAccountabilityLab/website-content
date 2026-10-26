@@ -10,14 +10,14 @@ title: Bringing _research excellence_ and _technical rigour_ to questions of pow
 news:
   - text: "Our mission"
     link: /mission
-  - text: "Event: launch 28 nov 2026"
-    link: /about
-  - text: "join our team!"
+  - text: "Areas of interest",
+    link: "/#areas-of-interest",
+  - text: "About us"
     link: /about
 ---
 ::
 
-:text-scroll{text="We leverage empirical evidence to inform the public, support evidence-driven AI policies, hold systems of power and authority accountable, and pave the way marked by a _just_ and _equitable_ AI." arrow=true}
+:text-scroll{text="We leverage empirical evidence to inform the public, support evidence-driven AI policies and hold systems of power and authority accountable." arrow=true}
 
 :text-scroll{text="The following _areas of interest_ have our specific attention:" arrow=true}
 
