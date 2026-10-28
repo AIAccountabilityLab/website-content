@@ -12,8 +12,8 @@ news:
     link: /mission
   - text: "Areas of interest",
     link: "/#areas-of-interest",
-  - text: "About us"
-    link: /about
+  - text: "Follow us on Bluesky"
+    link: https://bsky.app/profile/aial.ie
 ---
 ::
 
