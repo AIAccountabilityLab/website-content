@@ -1,25 +1,23 @@
 main:
-  - name: Areas of Interest
-    link: "/#areas-of-interest"
-  - name: Academic Work
-    link: "/work/academic-work"
-    category: academic
-  - name: Policy Work
-    link: "/work/policy-work"
-    category: policy
-  - name: Opinion pieces 
-    link: "/work/opinion-piece"
-    category: opinion
-  - name: Media Appearances
-    link: "/work/media-appearances"
-    category: media
-  - name: Blog
-    link: "/work/blog"
-    category: blog
   - name: About
     link: "/about"
-  - name: AI-use Policy
-    link: "/ai-use-policy"
+  # - name: Areas of Interest
+  #   link: "/#areas-of-interest"
+  # - name: Academic Work
+  #   link: "/work/academic-work"
+  #   category: academic
+  # - name: Policy Work
+  #   link: "/work/policy-work"
+  #   category: policy
+  # - name: Opinion pieces 
+  #   link: "/work/opinion-piece"
+  #   category: opinion
+  # - name: Media Appearances
+  #   link: "/work/media-appearances"
+  #   category: media
+  # - name: Blog
+  #   link: "/work/blog"
+  #   category: blog
   # sublinks:
   #   - name: People 
   #     link: "/people"
@@ -32,5 +30,7 @@ main:
 bottom:
   - name: Statement on Conflict of Interest 
     link: "/conflict-of-interest"
+  - name: AI-use Policy
+    link: "/ai-use-policy"
   - name: Legal and Privacy notice
     link: "/legal-privacy"
