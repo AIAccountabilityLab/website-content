@@ -1,4 +1,6 @@
 main:
+  - name: Our work
+    link: "/work"
   - name: Our mission
     link: "/mission"
   - name: About
