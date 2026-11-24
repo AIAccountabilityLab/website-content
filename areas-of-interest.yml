@@ -27,9 +27,8 @@
     Today, newcomers join Big Tech companies in what we call Big AI, a project of vast, centralised infrastructures for massive datasets and compute power, taking over entire socio-economic sectors under pressure of often unclear incentives.
     
     We thus study the organisations, institutions, interests and relationships shaping technology policy, oversight and enforcement standards - as they are subject to this same pressure - compelled by the notion that sensible regulation can and must lead innovation so as to uphold scientific, cultural and democratic integrity across the board.
-- title: "Towards the science of evaluation"
-  filter: "Towards the science of evaluation"
-  people: []
+- title: "Advancing a science of evaluation"
+  filter: "Advancing a science of evaluation"
   time: "2025 — 2026"
   description: |
     As AI systems become embedded in societal infrastructure, evaluating their behaviour and downstream impacts has emerged as an important scientific challenge and a pressing real-world problem. 
@@ -39,7 +38,6 @@
     Our interest in this area spans from systematic understanding of contemporary evaluation practices, what methodological rigour entails, how methodological choices shape the claims we can make about AI systems, as well as the pathway from (and interdependence) between rigorous evaluation practices and public interest accountability. 
 - title: "AI and low-resource languages"
   filter: "AI and low-resource languages"
-  people: ["helina"]
   time: "2025 — 2026"
   description: |
     Current major technological developments in AI tend to be built on the foundations of data theft, labour extraction, intrusive surveillance and a business model that maximises benefit to the company and its shareholders at any cost to the user. But this doesn’t have to be the way. 
@@ -47,9 +45,8 @@
     We challenge this norm by building language technologies for low-resource languages through meaningful participatory collaboration with a community of language speakers. 
     
     Combining qualitative and quantitative methodologies, we develop data collection, model development, and model evaluation methodologies and practices as well as community driven data governance protocols.
-- title: "Generative AI in public services"
-  filter: "Generative AI in public services"
-  people: ["sananda"]
+- title: "Mapping generative AI in public services"
+  filter: "Mapping generative AI in public services"
   time: "2025 — 2026"
   description: |
     Despite the growing push by government bodies to integrate generative AI into the public services, on the where, why, how, and when remains scarce. 
