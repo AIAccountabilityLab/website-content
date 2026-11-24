@@ -1,69 +1,124 @@
-- name: Dr Abeba Birhane
+- name: Abeba Birhane
   image: /people/abeba.jpg
   pronouns: she/her
-  role: Assistant Professor, Founder & Principal Investigator of AIAL
+  role: Assistant Professor of AI, Founder & Principal Investigator of AIAL
   long: |
-    Dr Abeba Birhane founded and leads the AI Accountability Lab (AIAL) at Trinity College Dublin. She received her PhD in 2022 from University College Dublin and is currently a Research Fellow at the School of Computer Science and Statistics in Trinity College Dublin.
-    
-    Dr Birhane researches AI accountability, with a particular focus on audits of AI models and training datasets – work for which she was featured on the TIME100 Most Influential People in AI list in 2023. Dr. Birhane also served on the United Nations Secretary-General’s AI Advisory Body and the AI Advisory Council in Ireland.
+    Abeba Birhane founded and leads the AI Accountability Lab (AIAL) at Trinity College Dublin, where she is an Assistant Professor of AI in the School of Computer Science and Statistics. Her research critically examines how AI systems encode and exacerbate societal inequities, historical norms, and power structures; and focuses on justice, fundamental rights, and inequalities across the AI pipeline. The throughline of her work emphasises holding those who are developing and deploying AI systems accountable for the systems they choose to build and societal consequences of their deployment. 
+
+    Within the scientific community, Birhane’s work has received significant recognition including, the Lero Director’s Prize for her PhD Contribution, the 2022 ACM FAccT Distinguished Paper Award, and IEEE Conference on Secure and Trustworthy Machine Learning Distinguished Paper Award. Beyond academia, her work has also been widely recognised, including featuring in TIME’s 100 Most Influential People in AI (2023), the Irish Tatler Women of the Year Award in the Innovation category (2025), and the Inspiration Award at 2026 The Diversity Inclusion Tech Awards. Birhane actively contributes to global AI discussion, including dialogues with the Dalia Lama, participation in the Vatican’s AI working group, and the 2025 AI Action Summit in Paris. She has served on the United Nations Secretary-General’s AI Advisory Body and Ireland’s AI Advisory Council, and is currently appointed to the European Commission’s AI Act Advisory Forum. 
   links:
     - https://bsky.app/profile/abeba.bsky.social
     - https://www.linkedin.com/in/abeba-birhane-214b8426
     - https://abebabirhane.com/
-- name: Dr Harshvardhan Pandit
-  image: /people/HJP.jpg
-  pronouns: he/him
-  role: Research Fellow
-  long: |
-    Harsh works on understanding the implications of regulations on technology and how these solve or hinder real-world challenges associated with privacy, legal and regulatory compliance, and consent. His PhD (Computer Science, Trinity College Dublin) explored the application of linked data and semantic web technologies towards GDPR compliance, with a particular focus on consent and provenance.
-
-    He currently co-chairs the W3C Data Privacy Vocabularies and Controls Community Group (DPVCG) – which develops interoperable vocabularies for privacy and data protection activities based on legal and practical requirements, is a member of the National Standards Authority of Ireland and contributes to ISO/IEC, CEN/CENELEC, and IEEE standardisation activities regarding privacy and AI, and is a nominated Technical Expert by the European Data Protection Board.
-  links:
-    - harshvardhan.pandit@adaptcentre.ie
-    - https://bsky.app/profile/harshp.com
-    - https://www.linkedin.com/in/harshvardhanpandit/
-    - https://harshp.com/
 - name: Maribeth Rauh
   image: /people/mrauh.jpg
   pronouns: she/her
-  role: Researcher
+  role: Senior Research Fellow
   long: |
-    Maribeth Rauh researches sociotechnical evaluation of AI systems, with particular attention to how they exacerbate structural inequality. Her current work focuses on justice-oriented audit frameworks and evaluations of AI "agents."
-    
-    Prior to joining the AIAL, she worked as a Research Engineer at DeepMind, collaborating across engineering, research, and ethics teams on questions at the intersection of AI development and societal impact. Her research has been published at top conferences including NeurIPS, ICLR, ACM Conference on Fairness, Accountability, and Transparency (FAccT), and AAAI/ACM Conference on AI, Ethics, and Society (AIES).
+    Maribeth Maribeth Rauh researches sociotechnical evaluation of AI systems, with particular attention to how they exacerbate structural inequality. Her current work focuses on evaluations of AI "companionship" and advancing the science of AI evaluation itself, to bring greater rigour and accountability to the field. 
+
+    Prior to joining the AIAL, she worked as a Research Engineer at DeepMind, collaborating across engineering, research, and ethics teams on questions at the intersection of AI development and societal impact. Her research has been published at top conferences including NeurIPS, ICLR, ACM Conference on Fairness, Accountability, and Transparency (FAccT), and AAAI/ACM Conference on AI, Ethics, and Society (AIES). 
   links:
     - maribeth.rauh@adaptcentre.ie
     - https://bsky.app/profile/mbrauh.bsky.social
     - https://www.linkedin.com/in/maribethrauh/
     - https://maribeth.info/
+  name: Harshvardhan Pandit
+  image: /people/HJP.jpg
+  pronouns: he/him
+  role: Research Fellow
+  long: |
+    Harsh works on understanding the implications of regulations on technology and how these solve or hinder real-world challenges associated with privacy, legal and regulatory compliance, and consent. His PhD (Computer Science, Trinity College Dublin) explored the application of linked data and semantic web technologies towards GDPR compliance, with a particular focus on consent and provenance. 
+
+    He currently co-chairs the W3C Data Privacy Vocabularies and Controls Community Group (DPVCG) ‚ which develops interoperable vocabularies for privacy and data protection activities based on legal and practical requirements, is a member of the National Standards Authority of Ireland and contributes to ISO/IEC, CEN/CENELEC, and IEEE standardisation activities regarding privacy and AI, and is a nominated Technical Expert by the European Data Protection Board. 
+  links:
+    - harshvardhan.pandit@adaptcentre.ie
+    - https://bsky.app/profile/harshp.com
+    - https://www.linkedin.com/in/harshvardhanpandit/
+    - https://harshp.com/
+- name: Hellina Hailu Nigatu
+  image: /people/HJP.jpg
+  pronouns: she/her
+  role: Postdoctoral Researcher
+  long: |
+    Hellina is a postdoctoral researcher at the AI Accountability Lab in Trinity College Dublin. Hellina holds a PhD and MSc from University of California at Berkeley in Computer Science. She received her BSc from Addis Ababa University in Electrical and computer engineering. Her research broadly lies in the intersection of Natural Language Processing, Human-Computer Interaction and AI Ethics with a focus on low-resourced languages and the Global South. 
+
+    Her postdoc project focuses on co-designing for the Bamanankan language including setting up data infrastructure and policy framework as well as building language technologies such as speech recognition and machine translation by closely collaborating with community members. She has received multiple awards for her research including the Wikimedia Foundation Research of the Year Award, Wangarĩ Maathai Impact Award, best paper awards at EMNLP and Black in AI, and fellowships including the SIGHPC computational and data science fellowship and the FAccT DEI Scholars program. 
+  links:
+    - nigatuh@tcd.ie
+    - https://www.linkedin.com/in/hellina-hailu-nigatu-phd-5b382816a/
+    - https://hhnigatu.github.io/
+- name: Sananda Sahoo
+  image: /people/HJP.jpg
+  pronouns: she/her
+  role: Postdoctoral Researcher
+  long: |
+    Sananda is a Postdoctoral Research Fellow at the AI Accountability Lab in Trinity College Dublin. She holds a PhD from the University of Western Ontario (Western University) in Media Studies. She received her Masters from the University of Missouri and MPhil from Calcutta University, India. She has received funding and fellowships from Mitacs Canada and Data Justice Lab, University of Cardiff. Her research sits at the intersection of critical data studies, automated distribution systems, algorithmic registers, and government accountability. 
+
+    Her postdoc project primarily focuses on documenting, mapping, and evaluating uses of generative AI technologies in the Irish public services. Sahoo also looks at government accounting systems and public service delivery strategies as well as right-wing propaganda and populism disseminated through digital media systems.Her research has been published in edited volumes and journals such as BJHS Themes, Antipode, Television and New Media, and Critical Studies in Media Communication.
+  links:
+    - nigatuh@tcd.ie
+    - https://www.linkedin.com/in/hellina-hailu-nigatu-phd-5b382816a/
+    - https://hhnigatu.github.io/    
+- name: Isabel Maria Ronan
+  image: /people/HJP.jpg
+  pronouns: she/her
+  role: Postdoctoral Researcher
+  long: |
+    Isabel is a postdoctoral researcher at the AI Accountability Lab in Trinity College Dublin. She holds a PhD from University College Cork in computer science, along with an MSc degree in interactive media and a BMus degree. She received funding from Research Ireland under the ADVANCE CRT programme to undertake her PhD research, and is a three-time Quercus Scholar. 
+
+    Her research investigates the understanding and assessment of AI measurements, with the aim of developing  more rigorous and consistent evaluation practices for deployed systems. Drawing on interdisciplinary insights from related domains such as measurement science, her work focuses on the application of established practices  to contemporary AI evaluations and the standardisation of methodological practices in the AI landscape. In particular, she examines the implications of practices such as LLM-as-a-judge and synthetic participants in AI evaluation for scientific validity, reliability and robustness. 
+  links:
+    - nronani@tcd.ie
+    - https://bsky.app/profile/isabelronan.bsky.social
+    - https://www.linkedin.com/in/isabel-ronan/
+    - http://isabelronan.com   
 - name: Riccardo Angius
   image: /people/riccardoangius.jpg
   pronouns: they/them
   role: PhD Researcher
   long: |
-    Riccardo is a mixed-method doctorand with a decade-long experience in interdisciplinary teams investigating social dynamics, overtrust in decision support systems, and sociotechnical auditing of predictive and generative stochastic systems.
-    
-    Their work in Sociolinguistics, Computer Supported Group Work and Science and Technology Studies at the Universities of Padova and Milano-Bicocca was published at impactful conferences such as ACM CHI and AAAI ICWSM. Riccardo's joint work with AI Forensics and Algorithm Watch has been featured by The Washington Post, Wired US, Die Zeit and Nieuwsuur, as well as cited by Pulitzer-winning Julia Angwin, the Reuters Institute and in formal proceedings of the European Commission.
+    Riccardo trained in Computer Science at the University of Cagliari, and in Artificial Intelligence at the University of Padova. Here they undertook research, before moving on to the University of Milano-Bicocca first, and working with NGOs AI Forensics and AlgorithmWatch after. In their PhD research, Riccardo investigates authoritarianism, technology-facilitated necropolitics, the capture of the public interest and the destruction of public value by Big AI companies, online platforms and search engines. 
+
+    They bring over a decade of experience in interdisciplinary teams investigating social dynamics, overtrust in decision support systems, sociotechnical auditing of predictive and generative stochastic systems, deep neural networks, natural language processing, automated semantic analysis. Their work has been featured by international media such as The Washington Post and WIRED, published at conferences such as ACM CHI, ACM FAccT and AAAI ICWSM, cited by Pulitzer winners and world-renowned research institutes, supported formal proceedings of the European Commission, as well as expert testimony before the U.S. Congress.
   links:
     - angiusr@tcd.ie
     - https://bsky.app/profile/storitu.org
     - https://www.linkedin.com/in/riccardoangius/
     - https://storitu.org/
-- name: Nana Mgbechikwere Nwachukwu
-  image: /people/nananwachukwu.jpeg
-  role: PhD Researcher
-  long: |
-    Nana Nwachukwu is a PhD Candidate at the AI Accountability Lab, Trinity College Dublin, under the supervision of Dr. Abeba Birhane. Her research focuses on AI ecosystem accountability, algorithmic governance, and justice-oriented frameworks for evaluating socio-technical systems,especially within Global South contexts. She is also an Affiliate at the Berkman Klein Center for Internet & Society at Harvard University.
-    
-    Nana holds advanced degrees in law, international humanitarian affairs, and digital communications, and has over a decade of experience working at the intersection of technology, human rights, and policy.
-  links:
-    - https://www.linkedin.com/in/mtechlaw/
 - name: Shane Gilligan
   image: /people/shane-gilligan.png
-  role: Intern
+  pronouns: he/him
+  role: Research Assistant
   long: |
-    Shane Gilligan is currently a Master's student in Trinity College Dublin at the School of Computer Science and Statistics, where he also recently completed an undergraduate degree in computer science. He is undertaking research at the AI Accountability Lab under the supervision of Dr. Abeba Birhane. His work focuses on platform accountability, particularly audits of large platform recommender systems.
+    Shane Gilligan recently completed a Master’s degree in Trinity College Dublin at the School of Computer Science and Statistics, focusing on auditing of social media recommender systems using sock puppet methodologies. He is currently undertaking research at the AI Accountability Lab under the supervision of Dr. Abeba Birhane. His work focuses on platform accountability, particularly audits of large platform recommender systems. 
+ links:
+    - gilligs4@tcd.ie
+    - http://www.linkedin.com/in/shane-gilligan-1ab748286
+- name: Haïrat Assoumani
+  image: /people/riccardoangius.jpg
+  pronouns: she/her
+  role: Lab Coordinator 
+  long: |
+    Haïrat Assoumani is a Lab Coordinator at the AI Accountability Lab in Trinity College Dublin. With over five years of experience in project management and coordination, primarily in the non-profit sector, she now oversees the operational and administrative functions of the Lab alongside the PI.
+
+    Haïrat is also a board member and coordinator of Génération Lumière, an association working at the intersection of environmental and digital justice, denouncing the impact of extractive mining that powers our technologies on communities, biodiversity, and the climate.
+  links:
+    - assoumah@tcd.ie
+    - https://www.linkedin.com/in/haïrat
+- name: Pranav A
+  image: /people/riccardoangius.jpg
+  pronouns: he/they
+  role: Visiting Researcher
+  long: |
+    Pranav is a PhD student at University of Hamburg. His research focus is on AI accountability and critical AI. His doctoral work explores sociotechnical interactions via case studies like publishing policies, surveillance, benchmarking and many more. At AIAL, his visiting project involves conducting sociotechnical audits, particularly focusing on impact of current age assurance methods, practices, and policies. His research has been published in many top-tier conferences, including receiving Distinguished Paper Awards at FAccT. He is a weird mix of NLP, computer vision, HCI and policy design. He is a co-founder of Queer in AI and established inclusive policies in many academic conferences. Outside of academia, he is an improv comedian and a mindfulness teacher.
+  links:
+    - pranav.agrawal@uni-hamburg.de
+    - https://bsky.app/profile/pranav-nlp.bsky.social
+    - https://www.linkedin.com/in/pranav-nlp
+    - https://pranav-a.github.io/
 - name: Monique Munarini
+  active: false
   image: /people/moniquemunarini.png
   role: Visiting Researcher
   long: |
@@ -72,6 +127,7 @@
   links:
     - https://www.linkedin.com/in/moniquemunarini/
 - name: Syrine Enneifer
+  active: false
   image: /people/syrine.jpg
   role: Visiting Researcher
   long: |
@@ -81,6 +137,7 @@
   links:
     - https://www.linkedin.com/in/syrine-enneifer/
 - name: Dick Blankvoort
+  active: false
   image: /people/dickblankvoort.jpg
   pronouns: he/him
   role: Visiting Researcher
@@ -88,24 +145,3 @@
     Dick Blankvoort is a Master's student at the Radboud University Nijmegen and a researcher at the European Open Source AI Index. His primary interest lies in exploring the applications of generative AI and its mathematical underpinnings. His current work consists of delineating and scrutinizing current practices in open-source AI, as well as on exploring the auditing of various more advanced AI systems.
   links:
     - https://www.linkedin.com/in/dick-blankvoort/
-- name: Giovanni Occhipinti
-  active: false
-  image: /people/giovanniocchipinti.jpg
-  pronouns: he/him
-  role: Intern
-  long: |
-    Giovanni is an AI researcher in progress, studying language technology at the University of Bologna and is currently interested in LLM evaluation and alignment.
-  links:
-    - giovanni.occhipinti@adaptcentre.ie
-    - https://www.linkedin.com/in/occhipintigiovanni/
-- name: Mauricio Dal Pozzo Schneider
-  active: false
-  image: /people/mauricioschneider.jpg
-  role: Intern
-  long: |
-    Mauricio is a legal professional specializing in the intersection of law and technology, with over six years of experience in Civil, Consumer, Property, and Contract Law. Mauricio's career has been shaped by a commitment to providing expert legal counsel, managing complex litigation, and ensuring compliance with regulatory standards.
-    
-    Mauricio has actively contributed to global discussions through international conferences and collaborative projects focused on economic integration and digital transformation.
-  links:
-    - mauricio.dalpozzoschneider@adaptcentre.ie
-    - https://www.linkedin.com/in/mauriciodps/
