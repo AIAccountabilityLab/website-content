@@ -1,1 +1,3 @@
-# A Statement on Conflict of Interest
+# Independence and scientific integrity 
+
+Research independence and scientific integrity are the cornerstones of AIAL’s work and guiding principles. To safeguard our independence and prevent conflicts of interest, we do not accept funding or grants from the AI industry, nor do we enter into formal partnerships with industry stakeholders. We do not undertake evaluations or audits of AI systems, products, or models at the request of commercial entities or under contractual agreements. All our work is conducted independently and in the public interest, guided by an unwavering commitment to research excellence, transparency, and accountability. 
